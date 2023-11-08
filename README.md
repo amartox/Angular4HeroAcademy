@@ -1,2 +1,2 @@
 # Angular4HeroAcademy
-Smal updrage from angular 4 tutorial.
+Small updrage from angular 4 tutorial.
